@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+/* Small Devices (Smartphones) */
+@media only screen and (max-width: 576px) {
+    /* Styles for small devices */
+
+    .btnsubmit{
+        height: 30px;
+        width: 100px;
+        font-size: 20px;
+        
+        margin-left: 30%;
+    }
+    .tableall{
+        /* margin-left: 27%; */
+        margin-top: 20px;
+    }
+    .pdf-title{
+        font-size: 30px;
+        font-weight: 900;
+    }
+    .pdf-title2{
+        font-size: 30px;
+        font-weight: 900;
+        text-align: center;
+    }
+    .tablelist{
+        background: rgb(222, 227, 235);
+    }
+    #uploadForm{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+        grid-column-gap: px;
+        grid-row-gap: 20px;
+    }
+    .inputStyle{
+        background: rgb(186, 137, 63);
+      width: 94%;
+      height: 140px;
+      padding: 12px;
+
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+    }
+    
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+}
+
+
+/* Medium Devices (Tablets) */
+@media only screen and (min-width: 577px) and (max-width: 801px) {
+    /* Styles for small devices */
+
+    .btnsubmit{
+        height: 30px;
+        width: 100px;
+        font-size: 20px;
+        
+        margin-left: 30%;
+    }
+    .tableall{
+        /* margin-left: 27%; */
+        margin-top: 20px;
+    }
+    .pdf-title{
+        font-size: 30px;
+        font-weight: 900;
+    }
+    .pdf-title2{
+        font-size: 30px;
+        font-weight: 900;
+        text-align: center;
+    }
+    .tablelist{
+        background: rgb(222, 227, 235);
+    }
+    #uploadForm{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+        grid-column-gap: px;
+        grid-row-gap: 20px;
+    }
+    .inputStyle{
+        background: rgb(186, 137, 63);
+      width: 94%;
+      height: 140px;
+      padding: 12px;
+
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+    }
+    
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+}
+
+
+
+/* Large Devices (Desktops) */
+@media only screen and (min-width: 769px) and (max-width: 800px) {
+    /* Styles for small devices */
+
+    .btnsubmit{
+        height: 30px;
+        width: 100px;
+        font-size: 20px;
+        
+        margin-left: 30%;
+    }
+    .tableall{
+        /* margin-left: 27%; */
+        margin-top: 20px;
+    }
+    .pdf-title{
+        font-size: 30px;
+        font-weight: 900;
+    }
+    .pdf-title2{
+        font-size: 30px;
+        font-weight: 900;
+        text-align: center;
+    }
+    .tablelist{
+        background: rgb(222, 227, 235);
+    }
+    #uploadForm{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+        grid-column-gap: px;
+        grid-row-gap: 20px;
+    }
+    .inputStyle{
+        background: rgb(186, 137, 63);
+      width: 94%;
+      height: 140px;
+      padding: 12px;
+
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+    }
+    
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+}
+
+
+ 
+
+
+
+/* Extra Large Devices (Large Desktops) */
+@media only screen and (min-width: 993px) {
+
+
+    
+    .tableall{
+        /* margin-left: 27%; */
+        margin-top: 20px;
+    }
+    .tablelist{
+        
+        background: cornflowerblue;
+      padding: 57px;
+      width: 51%;
+      margin-left: 22%;
+      border-radius: 5px;
+    
+    }
+    
+    .inputStyle{
+        background: aquamarine;
+      width: 45%;
+      height: 61px;
+      padding: 12px;
+      border: azure;
+      /* border-radius: 16px 16px 0px 0px;   */
+      margin-left: 27%;
+    }
+    
+    .input{
+        margin-right: 10px;
+      size: 30px;
+      font-size: 13px;
+      font-weight: 900;
+    }
+    #uploadForm{
+        margin-top: 14px;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    
+    form label {
+        margin-right: 10px;
+    }
+    
+    form input, form button {
+        margin-right: 10px;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+    }
+    
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+    
+    }
+
+
+
+
+
+@media only screen and (min-width: 992px) {
+
+
+    
+    .tableall{
+        /* margin-left: 27%; */
+        margin-top: 20px;
+    }
+    .tablelist{
+        
+        background: cornflowerblue;
+      padding: 57px;
+      width: 51%;
+      margin-left: 22%;
+      border-radius: 5px;
+    
+    }
+    
+    .inputStyle{
+        background: aquamarine;
+      width: 45%;
+      height: 61px;
+      padding: 12px;
+      border: azure;
+      /* border-radius: 16px 16px 0px 0px;   */
+      margin-left: 27%;
+    }
+    
+    .input{
+        margin-right: 10px;
+      size: 30px;
+      font-size: 13px;
+      font-weight: 900;
+    }
+    #uploadForm{
+        margin-top: 14px;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    
+    form label {
+        margin-right: 10px;
+    }
+    
+    form input, form button {
+        margin-right: 10px;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+    }
+    
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+    
+    }
